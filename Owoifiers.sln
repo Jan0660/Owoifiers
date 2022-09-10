@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hoi4", "Hoi4/Hoi4.csproj", "{BFD9C958-75D3-425A-AE69-6BDE2EE5C296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerShell", "PowerShell\PowerShell.csproj", "{34BD5385-3665-4A65-8315-BE609BCE9539}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD9C958-75D3-425A-AE69-6BDE2EE5C296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD9C958-75D3-425A-AE69-6BDE2EE5C296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD9C958-75D3-425A-AE69-6BDE2EE5C296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD9C958-75D3-425A-AE69-6BDE2EE5C296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34BD5385-3665-4A65-8315-BE609BCE9539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34BD5385-3665-4A65-8315-BE609BCE9539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34BD5385-3665-4A65-8315-BE609BCE9539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34BD5385-3665-4A65-8315-BE609BCE9539}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
