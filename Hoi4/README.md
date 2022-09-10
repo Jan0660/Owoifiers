@@ -2,6 +2,8 @@
 
 Made using .NET 6.0 and [deadshot465/Owoify.Net](https://github.com/deadshot465/Owoify.Net).
 
+[Mods collection](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=2861060419)
+
 ## Usage
 
 ```pwsh
