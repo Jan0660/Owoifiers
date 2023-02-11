@@ -1,6 +1,6 @@
 # Hoi4 Owo
 
-Made using .NET 6.0 and [deadshot465/Owoify.Net](https://github.com/deadshot465/Owoify.Net).
+Made using .NET and [deadshot465/Owoify.Net](https://github.com/deadshot465/Owoify.Net).
 
 [Mods collection](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=2861060419)
 
@@ -23,4 +23,4 @@ Options:
 ```
 
 If no source is specified then the output is used as source.
-For the levels, Owo is the weakest, and Uvu is the strongest
+For the levels, Owo is the weakest, and Uvu is the strongest.
